@@ -12,7 +12,7 @@ Installation instructions for Debian / Ubuntu OS
   sudo pip install pyserial && \
   mkdir -p ~/Arduino/hardware/espressif && \
   cd ~/Arduino/hardware/espressif && \
-  git clone https://github.com/espressif/arduino-esp32.git esp32 && \
+  git clone https://github.com/martinius96/ESP32-Arduinocore-Enterprise-compatible.git esp32 && \
   cd esp32 && \
   git submodule update --init --recursive && \
   cd tools && \
