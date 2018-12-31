@@ -7,7 +7,7 @@ Installation instructions for Mac OS
   ```bash
   mkdir -p ~/Documents/Arduino/hardware/espressif && \
   cd ~/Documents/Arduino/hardware/espressif && \
-  git clone https://github.com/espressif/arduino-esp32.git esp32 && \
+  git clone https://github.com/martinius96/ESP32-Arduinocore-Enterprise-compatible.git esp32 && \
   cd esp32 && \
   git submodule update --init --recursive && \
   cd tools && \
