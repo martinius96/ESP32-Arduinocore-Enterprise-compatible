@@ -10,7 +10,7 @@
 
     - Select source and destination
         - Sketchbook Directory: Usually ```C:/Users/[YOUR_USER_NAME]/Documents/Arduino``` and is listed underneath the "Sketchbook location" in Arduino preferences.
-        - Source Location: ```https://github.com/espressif/arduino-esp32.git```
+        - Source Location: ```https://github.com/martinius96/ESP32-Arduinocore-Enterprise-compatible.git```
         - Target Directory: ```[ARDUINO_SKETCHBOOK_DIR]/hardware/espressif/esp32```
         - Click ```Clone``` to start cloning the repository
 
